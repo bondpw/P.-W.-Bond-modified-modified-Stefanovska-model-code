@@ -1,5 +1,6 @@
-#Modified modified Stefanovska model code
-This contains the code, for the master's project "Modelling the Cardiovascular System to Improve the Effectiveness of Mechanical Ventilators" by Philip W. Bond.
+Modified modified Stefanovska model code
+
+This contains code, for the master's project "Modelling the Cardiovascular System to Improve the Effectiveness of Mechanical Ventilators" by Philip W. Bond.
 
 DefEqnV200: this file defines the equation of the differential equations used in the Runge-Kutta method
 
