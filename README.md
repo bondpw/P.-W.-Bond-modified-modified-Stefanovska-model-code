@@ -12,3 +12,5 @@ SimulationV200: this file allows the whole simulation to be run, it is where the
 kappa2 will take.
 
 SimulationV200_Analysis: this file plots the data from the .npy files that are created when the simulation runs.
+
+All of the files above run the code to produce a simulation of the modified modified Stefanovska model.
